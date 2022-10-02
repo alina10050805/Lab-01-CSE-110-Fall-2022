@@ -36,13 +36,13 @@ git commit
 
 
 ### Profile Link
-- GitHub: [GitHub for Xiangyi Lin](https://github.com/alina10050805)
+1. GitHub: [GitHub for Xiangyi Lin](https://github.com/alina10050805)
 
-- Section Link to Personal Information: [Personal Information](https://github.com/alina10050805/Lab-01-CSE-110-Fall-2022/blob/main/README.md#lab-01-cse-110-fall-2022)
+2. Section Link to Personal Information: [Personal Information](https://github.com/alina10050805/Lab-01-CSE-110-Fall-2022/blob/main/README.md#lab-01-cse-110-fall-2022)
 
-- Relative Link to README.md: [README.md](./README.md)
+3. Relative Link to README.md: [README.md](./README.md)
 
-- Relative Link to image Command Line: [Command Line Screenshots](./screenshots/Command%20Line.jpeg)
+4. Relative Link to image Command Line: [Command Line Screenshots](./screenshots/Command%20Line.jpeg)
 
 
 ### Task List for CSE 110
